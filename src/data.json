@@ -1,0 +1,163 @@
+{
+    "status": "ok",
+    "feed": {
+        "url": "http://indianexpress.com/section/technology/feed/",
+        "title": "Technology | The Indian Express",
+        "link": "https://indianexpress.com/",
+        "author": "",
+        "description": "Latest News, India News, Coronavirus Latest News, Breaking News, Live News Online",
+        "image": "https://images.indianexpress.com/2018/10/fav-icon.png?w=32"
+    },
+    "items": [
+        {
+            "title": "Apple preparing monthly iPad, Mac payment plans for Apple Card",
+            "pubDate": "2020-06-07 14:24:46",
+            "link": "https://indianexpress.com/article/technology/tech-news-technology/apple-preparing-monthly-ipad-mac-payment-plans-for-apple-card-6447418/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6447418",
+            "author": "",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Tech",
+                "Technology"
+            ]
+        },
+        {
+            "title": "Your WhatsApp number may be available in plain text on Google search",
+            "pubDate": "2020-06-07 13:42:10",
+            "link": "https://indianexpress.com/article/technology/tech-news-technology/whatsapp-user-phone-number-leak-on-google-search-6447206/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6447206",
+            "author": "",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Tech",
+                "Technology"
+            ]
+        },
+        {
+            "title": "OnePlus 8 review: The power of being simple",
+            "pubDate": "2020-06-07 10:01:06",
+            "link": "https://indianexpress.com/article/technology/tech-reviews/oneplus-8-review-6447019/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6447019",
+            "author": "Nandagopal Rajan",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Tech Reviews",
+                "Technology"
+            ]
+        },
+        {
+            "title": "8 TikTok features we bet you didn’t know",
+            "pubDate": "2020-06-07 08:30:44",
+            "link": "https://indianexpress.com/article/technology/social/8-lesser-known-tiktok-features-6446933/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6446933",
+            "author": "",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Social",
+                "Technology"
+            ]
+        },
+        {
+            "title": "Meet Chirag Chopra, the Delhi developer whose biggest Possession is a game on Apple Arcade",
+            "pubDate": "2020-06-07 07:30:34",
+            "link": "https://indianexpress.com/article/technology/gaming/possessions-game-apple-arcade-interview-chirag-chopra-indian-developer-6446869/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6446869",
+            "author": "Anuj Bhatia",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Gaming",
+                "Technology"
+            ]
+        },
+        {
+            "title": "Dark mode coming to Facebook app: Details inside",
+            "pubDate": "2020-06-07 06:17:44",
+            "link": "https://indianexpress.com/article/technology/social/facebook-app-dark-mode-6446846/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6446846",
+            "author": "",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Social",
+                "Technology"
+            ]
+        },
+        {
+            "title": "Reliance Jio offers 1-year free Disney+ Hotstar subscription: How to get, full details",
+            "pubDate": "2020-06-07 04:24:54",
+            "link": "https://indianexpress.com/article/technology/tech-news-technology/jio-free-disney-plus-hotstar-vip-subscription-details-6446702/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6446702",
+            "author": "",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Tech",
+                "Technology"
+            ]
+        },
+        {
+            "title": "Science round-up June 1-7: Sun-Earth like duo found, Gene-editing could destroy coronavirus and more",
+            "pubDate": "2020-06-07 03:30:33",
+            "link": "https://indianexpress.com/article/technology/science/science-news-sun-earth-mirror-image-gene-editing-coronavirus-lunar-eclipse6446209/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6446209",
+            "author": "",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Science",
+                "Technology"
+            ]
+        },
+        {
+            "title": "WhatsApp Payments: How to set-up, send and receive money",
+            "pubDate": "2020-06-07 02:25:41",
+            "link": "https://indianexpress.com/article/technology/social/whatsapp-payments-how-to-setup-send-receive-money-6446263/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6446263",
+            "author": "",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Social",
+                "Technology"
+            ]
+        },
+        {
+            "title": "Best 5 computer speakers under Rs 3,000",
+            "pubDate": "2020-06-06 17:06:18",
+            "link": "https://indianexpress.com/article/technology/gadgets/top-5-computer-speakers-under-rs-3000-6446123/",
+            "guid": "https://indianexpress.com/?post_type=article&amp;p=6446123",
+            "author": "",
+            "thumbnail": "",
+            "description": "",
+            "content": "",
+            "enclosure": {},
+            "categories": [
+                "Gadgets",
+                "Technology"
+            ]
+        }
+    ]
+}
